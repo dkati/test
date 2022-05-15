@@ -6,7 +6,7 @@
 
   
   <remote  name="plusplus"
-           fetch=".."
+           fetch="https://github.com/LineageOSPlusPlus"
            revision="lospp-19.1" />
   
   <remote  name="github"
