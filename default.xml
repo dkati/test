@@ -4,6 +4,11 @@
   <remote  name="hyper"
            fetch="https://github.com/ForkLineageOS" />
 
+  
+  <remote  name="plusplus"
+           fetch=".."
+           revision="lospp-19.1" />
+  
   <remote  name="github"
            fetch=".."
            review="review.lineageos.org" />
